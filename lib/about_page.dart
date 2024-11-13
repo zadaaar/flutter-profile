@@ -85,7 +85,7 @@ class AboutPage extends StatelessWidget {
               ),
               SizedBox(height: 20),
               Text(
-                'Funfact: Saya tidak bisa melakukan deep squat/asian squat.',
+                'Fun fact: Saya tidak bisa melakukan deep squat/asian squat.',
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.black54,
