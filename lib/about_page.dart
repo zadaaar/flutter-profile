@@ -54,7 +54,7 @@ class AboutPage extends StatelessWidget {
                       ),
                       SizedBox(height: 4), // Space between icon and text
                       Text(
-                        'Call',
+                        '081252988852',
                         style: TextStyle(
                           fontSize: 14,
                           color: Colors.black54,
@@ -72,7 +72,7 @@ class AboutPage extends StatelessWidget {
                       ),
                       SizedBox(height: 4), // Space between icon and text
                       Text(
-                        'Email',
+                        'zadaalfarras@gmail.com',
                         style: TextStyle(
                           fontSize: 14,
                           color: Colors.black54,
