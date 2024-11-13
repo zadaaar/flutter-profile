@@ -10,12 +10,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const AboutPage(), // Menampilkan AboutPage di layar utama
+    return const MaterialApp(
+      title: 'Tentang Saya',
+      home: AboutPage(), // Menampilkan AboutPage di layar utama
     );
   }
 }
